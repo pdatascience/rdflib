@@ -31,7 +31,8 @@ library(nycflights13)
 library(repurrrsive)
 
 ## for comparison approaches
-library(tidyverse)
+library(dplyr)
+library(purrr)
 library(jsonlite)
 
 ## Our focal package:
